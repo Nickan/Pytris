@@ -1,0 +1,26 @@
+{
+  "mainFile": "D:/Game Development Files/Games for Git Hub/Python Using Pygame/Pygame Tetris Clone/tetrisclone.py", 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "TetrisClone", 
+  "license": "Apache License 2.0", 
+  "url": "", 
+  "pythonPath": "D:/Python32/python.exe", 
+  "preExecScript": "", 
+  "programParams": "", 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": ""
+}
